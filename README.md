@@ -1,2 +1,0 @@
-# WpfTest
-Test of WPF
